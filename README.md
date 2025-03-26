@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## uname -a
+# Команда uname -a используется для вывода всей системной информации. 
 <!--
 **zolotorevnd/zolotorevnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
