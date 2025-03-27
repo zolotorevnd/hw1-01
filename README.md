@@ -26,3 +26,29 @@
 <img src = "img/lsb_release.png" width = 100%>
 
 Команда lsb_release -a выводит подробную информацию о версии операционной системы.
+
+### 3. lscpu
+
+<img src = "img/lsb_release.png" width = 100%>
+
+<img src = "img/lsb_release.png" width = 100%>
+
+Команда lscpu предоставляет всю информацию о процессоре, включая количество процессоров, ядер на процессор, потоков на ядро, семейство процессоров, модель и многое другое.
+
+### 4. lshw
+
+<img src = "img/lshw.png" width = 100%>
+
+<img src = "img/lshw2.png" width = 100%>
+
+<img src = "img/lshw3.png" width = 100%>
+
+<img src = "img/lshw4.png" width = 100%>
+
+<img src = "img/lshw5.png" width = 100%>
+
+<img src = "img/lshw6.png" width = 100%>
+
+<img src = "img/lshw7.png" width = 100%>
+
+Команда lshw предназначена для отображения подробной информации об аппаратном обеспечении ПК. Она может отображать подробные данные о процессоре, оперативной памяти, дисках, сетевых интерфейсах, материнской плате, версии BIOS и т.д.
