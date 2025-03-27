@@ -17,7 +17,7 @@
 
 ### 1. uname -a
 
-<img src = "img/uname -a.png" width = 100%>
+<img src = "img/uname.png" width = 100%>
 
 Команда uname -a используется для вывода всей системной информации. 
 
